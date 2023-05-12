@@ -1,6 +1,6 @@
 # qr_code
 
-You can create and download qr code for vCard.
+You can create and download qr code for vCard with Flutter
 
 ## Getting Started
 
