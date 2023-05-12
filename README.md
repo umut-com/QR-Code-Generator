@@ -1,6 +1,6 @@
 # qr_code
 
-A new Flutter project.
+You can create and download qr code for vCard.
 
 ## Getting Started
 
